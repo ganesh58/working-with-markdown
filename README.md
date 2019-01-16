@@ -75,6 +75,7 @@ Just as this sentence is merged onto the line with the sentence before.
 If you don't want text to flow together, leave a blank line between items you wish visually separated as done with the name and email address at the end of this document. Use the Preview mentioned below to check appearance before you commit your changes. 
 
 ## Preview Changes
+## new comment
 
 If editing online in GitHub, scroll up to the top of the edit box, and click "Preview Changes" to see what your file will look like when displayed as a webpage. 
 
